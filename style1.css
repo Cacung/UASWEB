@@ -1,0 +1,65 @@
+#header{
+      background-image:url("1.jpeg");
+	  border:3px solid black;
+	  padding:15px;
+	  font-family:Cooper Black;
+	  font-size:18;
+	  text-align:center;
+	  height:50px;
+	
+	  
+	  }
+#menu{
+      position:absolute;
+      background-image:url(1.jpeg);
+	  border:3px solid black;
+	  letter-spacing:3px;
+	  font-family:Arial;
+	  font-size:17;
+	  text-align:center;
+	  color:white;
+	  padding:0px;
+	  width:300px;
+	  height:600px;}
+#isi{
+      float:center;
+	  background-color:grey;
+	  border:3px solid black;
+	  color:white;
+	  font-family:Arial;
+	  font-size:18;
+	  text-align:justify;
+	  width : 920px;
+	  height:100px;
+	  padding:20px;
+	  margin-left:300px;
+	  height: 500px;
+	  }
+#akhir{
+      position:relative;
+	  background-color:gray;
+	  border:3px solid black;
+	  font-family:Comic Sans MS;
+	  text-align:center;
+	  color:black;
+	  padding:40px0px;
+	  margin-top:0px;
+	  margin-left:300px;
+	  height: 55px;}
+.lol{
+	width:70%;
+	height:50%;
+	display:block;
+	margin:auto;
+	padding-right:5px;
+	border : 5px red;
+}
+#tombol{
+  text-decoration:none;
+  margin: auto;
+  padding: 10px;
+  color:white;
+  box-shadow: 5px 5px blue; 
+  background-color:grey;
+border:2px solid black;
+}
